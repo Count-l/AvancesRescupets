@@ -1,9 +1,0 @@
-body{
-    margin: 0;
-    padding:0;
-    background: #00C9FF; 
-    background: -webkit-linear-gradient(to right, #92FE9D, #00C9FF);  
-    background: linear-gradient(to right, #92FE9D, #00C9FF); 
-    background-size: cover;
-    z-index: 80;
-}
