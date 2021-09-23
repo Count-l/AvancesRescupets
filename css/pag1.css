@@ -1,0 +1,39 @@
+form{
+    width: 450px;
+    margin-left: 140px;
+    background: rgba(0,0,0,0.4);
+    padding: 10px 20px;
+    box-sizing: border-box;
+    margin-top: 140px;
+    border-radius: 8px;
+    margin-bottom: 50px;
+}
+h2{
+    color: #fff ;
+    text-align: center;
+    margin: 0;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+h3{
+    margin: 0;
+    margin-bottom: 10px;
+}
+input{
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 7px;
+    box-sizing: border-box;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+}
+#boton{
+    background: #31384A;
+    color:#fff;
+    padding: 20px;
+}
+#boton:hover{
+    cursor: pointer;
+    background-color: rgba(0, 1, 43, 0.911);
+}
