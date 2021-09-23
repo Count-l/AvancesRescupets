@@ -1,0 +1,11 @@
+nav>a{
+    padding: 10px;
+    text-decoration: none;
+    color: #fff;
+}
+.botones{
+        float: right;
+        margin: 8px 0;
+        margin-top: 15px;
+        top: 0%;      
+}
